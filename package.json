@@ -1,0 +1,23 @@
+{
+  "name": "restapilojaabc",
+  "version": "1.0.0",
+  "description": "Criação de uma api de teste para ser compartilhada com o heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lndsilva/restapilojaabc.git"
+  },
+  "keywords": [],
+  "author": "Etec Irmã Agostina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lndsilva/restapilojaabc/issues"
+  },
+  "homepage": "https://github.com/lndsilva/restapilojaabc#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
