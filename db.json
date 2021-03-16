@@ -1,0 +1,28 @@
+{
+  "empregados": [
+    {
+      "id": 1,
+      "nome": "Ana",
+      "sobrenome": "Miranda",
+      "email": "ana.miranda@gmail.com"
+    },
+    {
+      "id": 2,
+      "nome": "João",
+      "sobrenome": "Manuel",
+      "email": "joao.manuel@hotmail.com"
+    },
+    {
+      "nome": "Joaquina",
+      "sobrenome": "Silvania",
+      "email": "joaquina.silvania@gmail.com",
+      "id": 4
+    },
+    {
+      "nome": "João",
+      "sobrenome": "Antônio José",
+      "email": "joao.antonio@gmail.com",
+      "id": 5
+    }
+  ]
+}
